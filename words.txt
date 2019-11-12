@@ -1,0 +1,10 @@
+perro
+gato
+arbol
+casa
+libro
+cuaderno
+lapiz
+librero
+telefono
+tarjeta
